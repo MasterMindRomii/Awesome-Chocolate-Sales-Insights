@@ -9,16 +9,16 @@ The "Awesome Chocolate Sales Insights" dashboard provides comprehensive insights
 
 In this comprehensive video, learn how to get started and use DAX for many practical scenarios with 20+ examples. 
 ### What is covered?
-1️⃣ What is DAX & Power Pivot?
-2️⃣ How to create and edit measures in Power BI?
-3️⃣ Evaluation Context explained
-4️⃣ Customizing the DAX measure display settings
-5️⃣ Reusing DAX measures to build complex calculations
-6️⃣ How to use CALCULATE() to change the "FILTER" criteria
-7️⃣ DAX Measures vs. Columns
-8️⃣ Using Variables in DAX
-9️⃣ OR conditions, IN operator in DAX
-🔟 DAX tips & guidance to improve your skills
+- What is DAX & Power Pivot?
+- How to create and edit measures in Power BI?
+- Evaluation Context explained
+- Customizing the DAX measure display settings
+- Reusing DAX measures to build complex calculations
+- How to use CALCULATE() to change the "FILTER" criteria
+- DAX Measures vs. Columns
+- Using Variables in DAX
+- OR conditions, IN operator in DAX
+- DAX tips & guidance to improve your skills
 
 
 Happy analyzing! 🚀
